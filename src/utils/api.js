@@ -5,7 +5,7 @@ const BASE_URL = "https://youtube138.p.rapidapi.com";
 const options = {
     params: { hl: "en", gl: "US" },
     headers: {
-        "X-RapidAPI-Key": process.env.REACT_APP_YOUTUBE_API_KEY || "41007d4ec3msh418f3633ca1e4dbp1d1d8djsn8c564d5bcb74",
+        "X-RapidAPI-Key": process.env.REACT_APP_YOUTUBE_API_KEY || "AIzaSyD4f_oIs_Nay4RhXDiNPMZLE7-2VGt1n7I",
         "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
     },
 };
